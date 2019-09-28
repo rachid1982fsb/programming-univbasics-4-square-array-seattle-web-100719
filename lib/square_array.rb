@@ -6,3 +6,5 @@ def square_array(array)
     ar[counter]=array[counter]*array[counter]
     counter += 1
 end
+
+square_array([2,1,3])
